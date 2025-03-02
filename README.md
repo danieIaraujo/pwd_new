@@ -1,1 +1,1 @@
-# gerarpwd
+Gerar senha aleatória
